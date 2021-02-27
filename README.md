@@ -9,4 +9,8 @@ Main idea of this app is to create Body Mass Index calculator. Based on the user
 * Multi-screen app with animated navigation.
 * Optional binding, optional chaining and the nil coalescing operator.
 * Classes and difference between classes and structs. 
-* Pass by value vs. pass by reference. 
+* Pass by value vs. pass by reference.
+
+<p align="center">
+	<img width="375" height="667" src="Documentation/BMI.gif">
+</p> 
